@@ -1,8 +1,8 @@
 {
   "development": {
     "username": "root",
-    "password": "sapwd",
-    "database": "burger2_db",
+    "password": null,
+    "database": "database_dev",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
